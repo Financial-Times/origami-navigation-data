@@ -2,7 +2,7 @@
 
 // {
 // 	'label': 'Example Menu',
-// 	'items': []
+// 	'items': [item]
 // }
 const menu = {
 	id: 'menu',
@@ -42,8 +42,12 @@ const item = {
 			minLength: 1
 		},
 		url: {
-			type: 'string',
-			 format: 'uri'
+			anyOf: [{
+				type: 'null'
+			}, {
+				type: 'string',
+				format: 'uri'
+			}]
 		},
 		submenu: {
 			anyOf: [{
@@ -64,7 +68,7 @@ const root = {
 	id: 'root',
 	type: 'object',
 	minProperties: 1,
-	required: ['example-menu'],
+	required: ['account'],
 	'patternProperties': {
 		'^.*$': { $ref: 'menu' }
 	},

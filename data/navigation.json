@@ -1,10 +1,40 @@
 {
-	"example-menu": {
-		"label": "Example Menu",
+	"account": {
+		"label": "Account",
 		"items": [
 			{
-				"label": "Example Item",
-				"url": "http://example.com/",
+				"label": "Sign In",
+				"url": "/login?location=${currentPath}",
+				"submenu": null
+			},
+			{
+				"label": "Sign Out",
+				"url": "/logout",
+				"submenu": null
+			},
+			{
+				"label": "Subscribe",
+				"url": "/products",
+				"submenu": null
+			},
+			{
+				"label": "My Account",
+				"url": "https://myaccount.ft.com/details/core/view",
+				"submenu": null
+			},
+			{
+				"label": "myFT",
+				"url": "/myft",
+				"submenu": null
+			},
+			{
+				"label": "Portfolio",
+				"url": "http://markets.ft.com/data/portfolio/dashboard",
+				"submenu": null
+			},
+			{
+				"label": "Opt Out",
+				"url": "/opt-out-confirm?location=${currentPath}",
 				"submenu": null
 			}
 		]
