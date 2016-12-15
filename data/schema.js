@@ -68,7 +68,7 @@ const root = {
 	id: 'root',
 	type: 'object',
 	minProperties: 1,
-	required: ['account'],
+	required: ['account', 'drawer-uk'],
 	'patternProperties': {
 		'^.*$': { $ref: 'menu' }
 	},
