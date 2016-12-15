@@ -15,6 +15,7 @@ describe('Navigation data', () => {
 		const valid = v.validate('root', d);
 		assert.isNull(v.errors, 'The navigation data did not match the scheme:' + JSON.stringify(v.errors, null, 4));
 		assert.equal(valid, true, 'The navigation data did not match the scheme' );
+		throw new Error("Making tests fail on purpose");
 	});
 });
 
