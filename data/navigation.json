@@ -2015,154 +2015,157 @@
 			}
 		]
 	},
-	"footer": [
-		{
-			"label": "Support",
-			"items": [
-				[
-					{
-						"name": "Feedback",
-						"url": "/feedback",
-						"submenu": null
-					}, {
-						"name": "Help Centre",
-						"url": "http://help.ft.com",
-						"submenu": null
-					}, {
-						"name": "About Us",
-						"url": "http://www.ft.com/aboutus",
-						"submenu": null
-					}
+	"footer": {
+		"label": "Footer",
+		"items": [
+			{
+				"label": "Support",
+				"items": [
+					[
+						{
+							"name": "Feedback",
+							"url": "/feedback",
+							"submenu": null
+						}, {
+							"name": "Help Centre",
+							"url": "http://help.ft.com",
+							"submenu": null
+						}, {
+							"name": "About Us",
+							"url": "http://www.ft.com/aboutus",
+							"submenu": null
+						}
+					]
 				]
-			]
-		},
-		{
-			"label": "Legal & Privacy",
-			"items": [
-				[
-					{
-						"name": "Terms & Conditions",
-						"url": "http://help.ft.com/help/legal-privacy/terms-conditions/",
-						"submenu": null
-					}, {
-						"name": "Privacy",
-						"url": "http://help.ft.com/help/legal-privacy/privacy/",
-						"submenu": null
-					}, {
-						"name": "Cookies",
-						"url": "http://help.ft.com/help/legal-privacy/cookies/",
-						"submenu": null
-					}, {
-						"name": "Copyright",
-						"url": "http://help.ft.com/help/legal-privacy/copyright/copyright-policy/",
-						"submenu": null
-					}
+			},
+			{
+				"label": "Legal & Privacy",
+				"items": [
+					[
+						{
+							"name": "Terms & Conditions",
+							"url": "http://help.ft.com/help/legal-privacy/terms-conditions/",
+							"submenu": null
+						}, {
+							"name": "Privacy",
+							"url": "http://help.ft.com/help/legal-privacy/privacy/",
+							"submenu": null
+						}, {
+							"name": "Cookies",
+							"url": "http://help.ft.com/help/legal-privacy/cookies/",
+							"submenu": null
+						}, {
+							"name": "Copyright",
+							"url": "http://help.ft.com/help/legal-privacy/copyright/copyright-policy/",
+							"submenu": null
+						}
+					]
 				]
-			]
-		},
-		{
-			"label": "Services",
-			"collapsible": true,
-			"items": [
-				[
-					{
-						"name": "Conferences & Events",
-						"url": "http://live.ft.com/",
-						"submenu": null
-					}, {
-						"name": "Individual Subscriptions",
-						"url": "https://sub.ft.com/spa_5",
-						"submenu": null
-					}, {
-						"name": "Group Subscriptions",
-						"url": "http://enterprise.ft.com/en-gb/services/group-subscriptions/",
-						"submenu": null
-					}, {
-						"name": "Republishing",
-						"url": "http://enterprise.ft.com/en-gb/services/republishing/",
-						"submenu": null
-					}, {
-						"name": "Contracts & Tenders",
-						"url": "http://www.businessesforsale.com/ft2/notices",
-						"submenu": null
-					}
-				],
-				[
-					{
-						"name": "Analysts Research",
-						"url": "https://commerce.uk.reuters.com/purchase/mostPopular.do?rpc=471",
-						"submenu": null
-					}, {
-						"name": "Executive Job Search",
-						"url": "https://www.exec-appointments.com/",
-						"submenu": null
-					}, {
-						"name": "Advertise with the FT",
-						"url": "http://fttoolkit.co.uk/d/",
-						"submenu": null
-					}, {
-						"name": "Follow the FT on Twitter",
-						"url": "https://twitter.com/ft",
-						"submenu": null
-					}, {
-						"name": "Ebooks",
-						"url": "http://www.ft.com/ebooks",
-						"submenu": null
-					}
+			},
+			{
+				"label": "Services",
+				"collapsible": true,
+				"items": [
+					[
+						{
+							"name": "Conferences & Events",
+							"url": "http://live.ft.com/",
+							"submenu": null
+						}, {
+							"name": "Individual Subscriptions",
+							"url": "https://sub.ft.com/spa_5",
+							"submenu": null
+						}, {
+							"name": "Group Subscriptions",
+							"url": "http://enterprise.ft.com/en-gb/services/group-subscriptions/",
+							"submenu": null
+						}, {
+							"name": "Republishing",
+							"url": "http://enterprise.ft.com/en-gb/services/republishing/",
+							"submenu": null
+						}, {
+							"name": "Contracts & Tenders",
+							"url": "http://www.businessesforsale.com/ft2/notices",
+							"submenu": null
+						}
+					],
+					[
+						{
+							"name": "Analysts Research",
+							"url": "https://commerce.uk.reuters.com/purchase/mostPopular.do?rpc=471",
+							"submenu": null
+						}, {
+							"name": "Executive Job Search",
+							"url": "https://www.exec-appointments.com/",
+							"submenu": null
+						}, {
+							"name": "Advertise with the FT",
+							"url": "http://fttoolkit.co.uk/d/",
+							"submenu": null
+						}, {
+							"name": "Follow the FT on Twitter",
+							"url": "https://twitter.com/ft",
+							"submenu": null
+						}, {
+							"name": "Ebooks",
+							"url": "http://www.ft.com/ebooks",
+							"submenu": null
+						}
+					]
 				]
-			]
-		},
-		{
-			"label": "Tools",
-			"collapsible": true,
-			"items": [
-				[
-					{
-						"name": "Portfolio",
-						"url": "http://markets.ft.com/data/portfolio/dashboard",
-						"submenu": null
-					}, {
-						"name": "ePaper",
-						"url": "http://www.ft.com/uk-edition",
-						"submenu": null
-					}, {
-						"name": "Alerts Hub",
-						"url": "http://markets.ft.com/data/alerts/",
-						"submenu": null
-					}, {
-						"name": "Lexicon",
-						"url": "http://lexicon.ft.com/?ft_site=falcon",
-						"submenu": null
-					}, {
-						"name": "MBA Rankings",
-						"url": "http://rankings.ft.com/businessschoolrankings/global-mba-ranking-2016?ft_site=falcon",
-						"submenu": null
-					}
-				],
-				[
-					{
-						"name": "Economic Calendar",
-						"url": "http://markets.ft.com/data/world/economic-calendar",
-						"submenu": null
-					}, {
-						"name": "News feed",
-						"url": "/news-feed",
-						"submenu": null
-					}, {
-						"name": "Newsletters",
-						"url": "http://nbe.ft.com/nbe/profile.cfm?ft_site=falcon",
-						"submenu": null
-					}, {
-						"name": "Currency Converter",
-						"url": "http://markets.ft.com/research/Markets/Currencies?segid=70113",
-						"submenu": null
-					}, {
-						"name": "Press Cuttings",
-						"url": "http://presscuttings.ft.com/presscuttings/search.htm",
-						"submenu": null
-					}
+			},
+			{
+				"label": "Tools",
+				"collapsible": true,
+				"items": [
+					[
+						{
+							"name": "Portfolio",
+							"url": "http://markets.ft.com/data/portfolio/dashboard",
+							"submenu": null
+						}, {
+							"name": "ePaper",
+							"url": "http://www.ft.com/uk-edition",
+							"submenu": null
+						}, {
+							"name": "Alerts Hub",
+							"url": "http://markets.ft.com/data/alerts/",
+							"submenu": null
+						}, {
+							"name": "Lexicon",
+							"url": "http://lexicon.ft.com/?ft_site=falcon",
+							"submenu": null
+						}, {
+							"name": "MBA Rankings",
+							"url": "http://rankings.ft.com/businessschoolrankings/global-mba-ranking-2016?ft_site=falcon",
+							"submenu": null
+						}
+					],
+					[
+						{
+							"name": "Economic Calendar",
+							"url": "http://markets.ft.com/data/world/economic-calendar",
+							"submenu": null
+						}, {
+							"name": "News feed",
+							"url": "/news-feed",
+							"submenu": null
+						}, {
+							"name": "Newsletters",
+							"url": "http://nbe.ft.com/nbe/profile.cfm?ft_site=falcon",
+							"submenu": null
+						}, {
+							"name": "Currency Converter",
+							"url": "http://markets.ft.com/research/Markets/Currencies?segid=70113",
+							"submenu": null
+						}, {
+							"name": "Press Cuttings",
+							"url": "http://presscuttings.ft.com/presscuttings/search.htm",
+							"submenu": null
+						}
+					]
 				]
-			]
-		}
-	]
+			}
+		]
+	}
 }
