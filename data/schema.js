@@ -9,7 +9,11 @@ const menu = {
 	required: ['label', 'items'],
 	properties: {
 		label: {
-			type: 'string'
+			anyOf: [{
+				type: 'null'
+			}, {
+				type: 'string'
+			}]
 		},
 		items: {
 			type: 'array',
@@ -68,7 +72,7 @@ const root = {
 	id: 'root',
 	type: 'object',
 	minProperties: 1,
-	required: ['account', 'drawer-uk'],
+	required: ['account', 'drawer-uk', 'drawer-international', 'user', 'anon', 'footer'],
 	'patternProperties': {
 		'^.*$': { $ref: 'menu' }
 	},
