@@ -72,7 +72,7 @@ const root = {
 	id: 'root',
 	type: 'object',
 	minProperties: 1,
-	required: ['account', 'drawer-uk', 'drawer-international', 'user', 'anon', 'footer'],
+	required: ['account', 'drawer-uk', 'drawer-international', 'user', 'anon', 'footer', 'navbar-simple', 'navbar-right', 'navbar-right-anon', 'navbar-uk', 'navbar-international'],
 	'patternProperties': {
 		'^.*$': { $ref: 'menu' }
 	},
