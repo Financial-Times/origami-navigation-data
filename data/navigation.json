@@ -2208,5 +2208,20 @@
 				"submenu": null
 			}
 		]
+	},
+	"navbar-right-anon": {
+		"label": "Navigation",
+		"items": [
+			{
+				"label": "Sign In",
+				"url": "/login?location=${currentPath}",
+				"submenu": null
+			},
+			{
+				"label": "Subscribe",
+				"url": "/products",
+				"submenu": null
+			}
+		]
 	}
 }
