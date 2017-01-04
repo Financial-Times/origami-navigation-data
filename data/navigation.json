@@ -2223,5 +2223,95 @@
 				"submenu": null
 			}
 		]
+	},
+	"navbar-uk": {
+		"label": "Navigation",
+		"items": [
+			{
+				"label": "Home",
+				"url": "/",
+				"submenu": null
+			},
+			{
+				"label": "World",
+				"url": "/world",
+				"submenu": null
+			},
+			{
+				"label": "UK",
+				"url": "/world/uk",
+				"submenu": null
+			},
+			{
+				"label": "Companies",
+				"url": "/companies",
+				"submenu": null
+			},
+			{
+				"label": "Markets",
+				"url": "/markets",
+				"submenu": null
+			},
+			{
+				"label": "Opinion",
+				"url": "/comment",
+				"submenu": null
+			},
+			{
+				"label": "Work & Careers",
+				"url": "/work-careers",
+				"submenu": null
+			},
+			{
+				"label": "Life & Arts",
+				"url": "/life-arts",
+				"submenu": null
+			}
+		]
+	},
+	"international": {
+		"label": "Navigation",
+		"items": [
+			{
+				"label": "Home",
+				"url": "/",
+				"submenu": null
+			},
+			{
+				"label": "World",
+				"url": "/world",
+				"submenu": null
+			},
+			{
+				"label": "US",
+				"url": "/world/us",
+				"submenu": null
+			},
+			{
+				"label": "Companies",
+				"url": "/companies",
+				"submenu": null
+			},
+			{
+				"label": "Markets",
+				"url": "/markets",
+				"submenu": null
+			},
+			{
+				"label": "Opinion",
+				"url": "/comment",
+				"submenu": null
+			},
+			{
+				"label": "Work & Careers",
+				"url": "/work-careers",
+				"submenu": null
+			},
+			{
+				"label": "Life & Arts",
+				"url": "/life-arts",
+				"submenu": null
+			}
+		]
 	}
 }
