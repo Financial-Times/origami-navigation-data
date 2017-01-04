@@ -2173,5 +2173,25 @@
 				}
 			}
 		]
+	},
+	"navbar-simple": {
+		"label": "Navigation",
+		"items": [
+			{
+				"label": "Home",
+				"url": "/",
+				"submenu": null
+			},
+			{
+				"label": "FastFT",
+				"url": "/fastft",
+				"submenu": null
+			},
+			{
+				"label": "Markets Data",
+				"url": "https://markets.ft.com/data",
+				"submenu": null
+			}
+		]
 	}
 }
