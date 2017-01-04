@@ -2194,7 +2194,7 @@
 			}
 		]
 	},
-	"navbar_right": {
+	"navbar-right": {
 		"label": "Navigation",
 		"items": [
 			{
@@ -2269,7 +2269,7 @@
 			}
 		]
 	},
-	"international": {
+	"navbar-international": {
 		"label": "Navigation",
 		"items": [
 			{
