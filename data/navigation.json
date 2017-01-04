@@ -2193,5 +2193,20 @@
 				"submenu": null
 			}
 		]
+	},
+	"navbar_right": {
+		"label": "Navigation",
+		"items": [
+			{
+				"label": "Portfolio",
+				"url": "https://markets.ft.com/data/portfolio/dashboard",
+				"submenu": null
+			},
+			{
+				"label": "My Account",
+				"url": "https://myaccount.ft.com/details/core/view",
+				"submenu": null
+			}
+		]
 	}
 }
