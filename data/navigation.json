@@ -4,7 +4,7 @@
 		"items": [
 			{
 				"label": "Sign In",
-				"url": "/login?location=${currentPath}",
+				"url": "/login?location=",
 				"submenu": null
 			},
 			{
@@ -34,7 +34,7 @@
 			},
 			{
 				"label": "Opt Out",
-				"url": "/opt-out-confirm?location=${currentPath}",
+				"url": "/opt-out-confirm?location=",
 				"submenu": null
 			}
 		]
@@ -984,7 +984,7 @@
 				}
 			},
 			{
-				"label": "secondary",
+				"label": null,
 				"url": null,
 				"submenu": {
 					"label": null,
@@ -2214,7 +2214,7 @@
 		"items": [
 			{
 				"label": "Sign In",
-				"url": "/login?location=${currentPath}",
+				"url": "/login?location=",
 				"submenu": null
 			},
 			{
