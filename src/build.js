@@ -33,4 +33,4 @@ module.exports = function (files) {
 		.then(readFiles)
 		.then(yamlToJSON)
 		.then(saveToFile);
-}
+};
