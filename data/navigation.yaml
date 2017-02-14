@@ -8,6 +8,7 @@ account:
   - <<: *my_ft
   - <<: *portfolio
   - <<: *opt_out
+  - <<: *rowan
 
 
 drawer-uk:
