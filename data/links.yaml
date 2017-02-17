@@ -913,7 +913,7 @@ links:
 
   - &alphaville
     label: "Alphaville"
-    url: "http://ftalphaville.ft.com"
+    url: "https://ftalphaville.ft.com"
     submenu:
 
   - &special_reports
