@@ -1123,7 +1123,7 @@ links:
 
   - &analyst_research
     label: "Analysts Research"
-    url: "https://commerce.uk.reuters.com/purchase/mostPopular.do?rpc=471"
+    url: "http://commerce.uk.reuters.com/purchase/mostPopular.do?rpc=471"
     submenu:
 
   - &executive_job_search
