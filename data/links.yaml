@@ -1289,3 +1289,8 @@ links:
     label: "Collecting"
     url: "/collecting"
     submenu:
+
+  - &securedrop
+    label: "How to share news tips"
+    url: "/securedrop"
+    disableTracking: "true"
