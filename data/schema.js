@@ -67,7 +67,7 @@ const item = {
 			anyOf: [{
 				type: 'null'
 			}, {
-				type: 'string'
+				type: 'boolean'
 			}]
 		}
 	},

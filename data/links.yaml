@@ -1293,4 +1293,4 @@ links:
   - &securedrop
     label: "How to share news tips"
     url: "/securedrop"
-    disableTracking: "true"
+    disableTracking: true
