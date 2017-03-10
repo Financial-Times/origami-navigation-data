@@ -348,6 +348,7 @@ footer:
       - <<: *help
       - <<: *about_us
       - <<: *accessibility
+      - <<: *securedrop
   - label: Legal & Privacy
     url:
     submenu:
