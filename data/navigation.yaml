@@ -348,7 +348,6 @@ footer:
       - <<: *help
       - <<: *about_us
       - <<: *accessibility
-      - <<: *securedrop
   - label: Legal & Privacy
     url:
     submenu:
@@ -363,6 +362,7 @@ footer:
     submenu:
       label:
       items:
+      - <<: *securedrop
       - <<: *conferences_events
       - <<: *individual_subscriptions
       - <<: *group_subscriptions
