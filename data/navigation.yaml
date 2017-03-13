@@ -245,12 +245,9 @@ drawer-uk:
           - <<: *property_mortgages
           - <<: *investments
           - <<: *pensions
-            submenu:
-              label:
-              items:
-              - <<: *pensioncalculator
           - <<: *tax
           - <<: *banking_savings
+          - <<: *advice&comment
       - <<: *science
       - <<: *special_reports
   - label: FT recommends
