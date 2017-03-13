@@ -1291,6 +1291,6 @@ links:
     submenu:
 
   - &securedrop
-    label: "How to share news tips"
+    label: "Share news tips securely"
     url: "/securedrop"
     disableTracking: true
