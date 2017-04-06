@@ -958,7 +958,7 @@ links:
 
   - &crossword
     label: 'Crossword'
-    url: 'http://www.ft.com/crossword'
+    url: 'https://www.ft.com/crosswords'
     submenu:
 
   - &tools_services
