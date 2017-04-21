@@ -13,7 +13,7 @@ links:
 
   - &world
     label: World
-    url: "/world"
+    url: "/testing"
     submenu:
 
   - &uk
