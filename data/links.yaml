@@ -732,7 +732,7 @@ links:
     submenu:
 
   - &sarah_oconnor
-    label: 'Sarah OConnor'
+    label: "Sarah O'Connor"
     url: '/sarah-o-connor'
     submenu:
 
