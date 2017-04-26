@@ -726,11 +726,6 @@ links:
     url: "/house-home"
     submenu:
 
-  - &property_listings
-    label: "FT Property Listings"
-    url: "https://propertylistings.ft.com/"
-    submenu:
-
   - &books
     label: "Books"
     url: "/books"
