@@ -746,11 +746,6 @@ links:
     url: "/house-home"
     submenu:
 
-  - &property_listings
-    label: "FT Property Listings"
-    url: "https://propertylistings.ft.com/"
-    submenu:
-
   - &books
     label: "Books"
     url: "/books"
@@ -1204,11 +1199,6 @@ links:
   - &ft_live
     <<: *conferences_events
     label: "FT Live"
-
-  - &ft_property_listings
-    label: "FT Property Listings"
-    url: "http://propertylistings.ft.com/"
-    submenu:
 
   - &ft_advisor
     label: "FT Adviser"
