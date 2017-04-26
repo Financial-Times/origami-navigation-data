@@ -1180,11 +1180,6 @@ links:
     <<: *conferences_events
     label: "FT Live"
 
-  - &ft_property_listings
-    label: "FT Property Listings"
-    url: "http://propertylistings.ft.com/"
-    submenu:
-
   - &ft_advisor
     label: "FT Adviser"
     url: "http://www.ftadviser.com/"
