@@ -461,5 +461,5 @@ navbar-international:
   - <<: *life_arts
     submenu: *life_arts_submenu
 
-links:
+_links:
   <<: *_links
