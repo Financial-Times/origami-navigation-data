@@ -4,7 +4,7 @@
 #                       including ampersands but all words are kept (so "name and name" becomes name_and_name but "name, name & name" becomes name_name_name
 #
 
-links:
+links: &_links
 
   - &home
     label: Home
