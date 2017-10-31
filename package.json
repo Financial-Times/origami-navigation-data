@@ -21,19 +21,18 @@
   },
   "devDependencies": {
     "@financial-times/release-log": "^1.1.2",
-    "ajv": "^4.10.0",
-    "eslint": "^2.13.1",
+    "ajv": "^5.2.3",
+    "eslint": "^4.9.0",
     "heads": "^1.2.0",
     "istanbul": "^0.4.5",
     "js-yaml": "^3.7.0",
     "minimist": "^1.2.0",
-    "mocha": "^3.2.0",
+    "mocha": "^4.0.1",
     "mockery": "^2.0.0",
     "proclaim": "^3.4.4",
     "s3-cli": "^0.13.0",
-    "sinon": "^1.17.7",
-    "sinon-as-promised": "^4.0.2",
-    "throat": "^3.0.0",
+    "sinon": "^4.0.1",
+    "throat": "^4.1.0",
     "trim": "0.0.1"
   }
 }
