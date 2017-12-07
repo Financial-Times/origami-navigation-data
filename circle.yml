@@ -5,7 +5,7 @@ machine:
 test:
   override:
     - make verify
-    - make test
+    - make build test
     - make whitesource
 
 deployment:
