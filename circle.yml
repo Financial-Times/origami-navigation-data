@@ -15,3 +15,4 @@ deployment:
       - make deploy-s3
       - make release-log
       - make update-cmdb
+      - make auto-version

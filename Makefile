@@ -15,7 +15,7 @@ INTEGRATION_TIMEOUT = 10000
 INTEGRATION_SLOW = 2000
 
 SERVICE_NAME = Origami Navigation Service Data
-SERVICE_SYSTEM_CODE = origami-image-service-v2
+SERVICE_SYSTEM_CODE = origami-navigation-service-data
 SERVICE_SALESFORCE_ID = $(SERVICE_NAME)
 REGION = NONE
 
