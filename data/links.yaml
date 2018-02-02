@@ -903,12 +903,12 @@ links:
 
   - &business_school_rankings
     label: 'Business School Rankings'
-    url: 'http://rankings.ft.com/businessschoolrankings/rankings'
+    url: 'https://rankings.ft.com/businessschoolrankings/rankings'
     submenu:
 
   - &mba_rankings
     label: "MBA Rankings"
-    url: "http://rankings.ft.com/businessschoolrankings/global-mba-ranking-2016?ft_site=falcon"
+    url: "https://rankings.ft.com/businessschoolrankings/global-mba-ranking-2016?ft_site=falcon"
     submenu:
 
   - &applying_to_a_business_school
@@ -1018,7 +1018,7 @@ links:
 
   - &tools_services
     label: "Tools & Services"
-    url: "http://help.ft.com/help/tools-services/"
+    url: "https://help.ft.com/help/tools-services/"
     submenu:
 
   - &newsfeed
@@ -1033,7 +1033,7 @@ links:
 
   - &lexicon
     label: "Lexicon"
-    url: "http://lexicon.ft.com/"
+    url: "https://lexicon.ft.com/"
     submenu:
 
   - &economic_calendar
@@ -1098,12 +1098,12 @@ links:
 
   - &help
     label: "Help Centre"
-    url: "http://help.ft.com"
+    url: "https://help.ft.com"
     submenu:
 
   - &about_us
     label: "About Us"
-    url: "http://www.ft.com/aboutus"
+    url: "https://www.ft.com/aboutus"
     submenu:
 
   - &accessibility
@@ -1113,37 +1113,37 @@ links:
 
   - &terms_conditions
     label: "Terms & Conditions"
-    url: "http://help.ft.com/help/legal-privacy/terms-conditions/"
+    url: "https://help.ft.com/help/legal-privacy/terms-conditions/"
     submenu:
 
   - &privacy
     label: "Privacy"
-    url: "http://help.ft.com/help/legal-privacy/privacy/"
+    url: "https://help.ft.com/help/legal-privacy/privacy/"
     submenu:
 
   - &cookies
     label: "Cookies"
-    url: "http://help.ft.com/help/legal-privacy/cookies/"
+    url: "https://help.ft.com/help/legal-privacy/cookies/"
     submenu:
 
   - &copyright
     label: "Copyright"
-    url: "http://help.ft.com/help/legal-privacy/copyright/copyright-policy/"
+    url: "https://help.ft.com/help/legal-privacy/copyright/copyright-policy/"
     submenu:
 
   - &editorial_code
     label: "FT Editorial Code of Practice"
-    url: "http://aboutus.ft.com/en-gb/ft-editorial-code/"
+    url: "https://aboutus.ft.com/en-gb/ft-editorial-code/"
     submenu:
 
   - &conferences_events
     label: "FT Live"
-    url: "http://live.ft.com/"
+    url: "https://live.ft.com/"
     submenu:
 
   - &individual_subscriptions
     label: "Individual Subscriptions"
-    url: "http://www.ft.com/products"
+    url: "https://www.ft.com/products"
     submenu:
 
   - &group_subscriptions
@@ -1158,12 +1158,12 @@ links:
 
   - &contracts_tenders
     label: "Contracts & Tenders"
-    url: "http://www.businessesforsale.com/ft2/notices"
+    url: "https://www.businessesforsale.com/ft2/notices"
     submenu:
 
   - &analyst_research
     label: "Analysts Research"
-    url: "http://commerce.uk.reuters.com/purchase/mostPopular.do?rpc=471"
+    url: "https://commerce.uk.reuters.com/purchase/mostPopular.do?rpc=471"
     submenu:
 
   - &executive_job_search
@@ -1173,7 +1173,7 @@ links:
 
   - &advertise_with_the_ft
     label: "Advertise with the FT"
-    url: "http://fttoolkit.co.uk/d/"
+    url: "https://fttoolkit.co.uk/d/"
     submenu:
 
   - &ft_twitter
@@ -1183,7 +1183,7 @@ links:
 
   - &alerts_hub
     label: "Alerts Hub"
-    url: "http://markets.ft.com/data/alerts/"
+    url: "https://markets.ft.com/data/alerts/"
     submenu:
 
   - &currency_converter
@@ -1203,7 +1203,7 @@ links:
 
   - &agenda
     label: "Agenda"
-    url: "http://agendaweek.com/"
+    url: "https://agendaweek.com/"
     submenu:
 
   - &analyse_africa
@@ -1213,17 +1213,17 @@ links:
 
   - &board_iq
     label: "Board IQ"
-    url: "http://www.boardiq.com/"
+    url: "https://www.boardiq.com/"
     submenu:
 
   - &corporate_learning_alliance
     label: "Corporate Learning Alliance"
-    url: "http://www.ftiecla.com/"
+    url: "https://www.ftiecla.com/"
     submenu:
 
   - &dpn
     label: "DPN: Deutsche Pensions & Investment Nachrichten"
-    url: "http://www.dpn-online.com/"
+    url: "https://www.dpn-online.com/"
     submenu:
 
   - &execsense
@@ -1233,7 +1233,7 @@ links:
 
   - &fdi_intelligence
     label: "FDI Intelligence"
-    url: "http://www.fdiintelligence.com/"
+    url: "https://www.fdiintelligence.com/"
     submenu:
 
   - &financial_advisor_iq
@@ -1243,7 +1243,7 @@ links:
 
   - &ft_chinese
     label: "FT Chinese"
-    url: "http://www.ftchinese.com/"
+    url: "https://www.ftchinese.com/"
     submenu:
 
   - &ft_live
@@ -1252,12 +1252,12 @@ links:
 
   - &ft_advisor
     label: "FT Adviser"
-    url: "http://www.ftadviser.com/"
+    url: "https://www.ftadviser.com/"
     submenu:
 
   - &fund_fire
     label: "Fund Fire"
-    url: "http://www.fundfire.com/"
+    url: "https://www.fundfire.com/"
     submenu:
 
   - &global_risk_regulator
@@ -1267,32 +1267,32 @@ links:
 
   - &how_to_spend_it
     label: "How to Spend It"
-    url: "http://howtospendit.ft.com/"
+    url: "https://howtospendit.ft.com/"
     submenu:
 
   - &ignites
     label: "Ignites"
-    url: "http://www.ignites.com/"
+    url: "https://www.ignites.com/"
     submenu:
 
   - &ignites_asia
     label: "Ignites Asia"
-    url: "http://www.ignitesasia.com/"
+    url: "https://www.ignitesasia.com/"
     submenu:
 
   - &ignites_europe
     label: "Ignites Europe"
-    url: "http://www.igniteseurope.com/"
+    url: "https://www.igniteseurope.com/"
     submenu:
 
   - &investors_chronicle
     label: "Investors Chronicle"
-    url: "http://www.investorschronicle.co.uk/"
+    url: "https://www.investorschronicle.co.uk/"
     submenu:
 
   - &mandate_wire
     label: "Mandate Wire"
-    url: "http://www.mandatewire.com/"
+    url: "https://www.mandatewire.com/"
     submenu:
 
   - &new_york_institute_finance
@@ -1302,37 +1302,37 @@ links:
 
   - &non_executive_directors_club
     label: "Non Executive Directors Club"
-    url: "http://www.non-execs.com/"
+    url: "https://www.non-execs.com/"
     submenu:
 
   - &pensions_expert
     label: "Pensions Expert"
-    url: "http://www.pensions-expert.com/"
+    url: "https://www.pensions-expert.com/"
     submenu:
 
   - &professional_wealth_management
     label: "Professional Wealth Management"
-    url: "http://www.pwmnet.com/"
+    url: "https://www.pwmnet.com/"
     submenu:
 
   - &125_club
     label: "The 125"
-    url: "http://the125.ft.com/"
+    url: "https://the125.ft.com/"
     submenu:
 
   - &the_banker
     label: "The Banker"
-    url: "http://www.thebanker.com/"
+    url: "https://www.thebanker.com/"
     submenu:
 
   - &the_banker_database
     label: "The Banker Database"
-    url: "http://www.thebankerdatabase.com/"
+    url: "https://www.thebankerdatabase.com/"
     submenu:
 
   - &this_is_africa
     label: "This is Africa"
-    url: "http://www.thisisafricaonline.com/"
+    url: "https://www.thisisafricaonline.com/"
     submenu:
 
   - &collecting
