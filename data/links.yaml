@@ -1033,7 +1033,7 @@ links:
 
   - &lexicon
     label: "Lexicon"
-    url: "https://lexicon.ft.com/"
+    url: "http://lexicon.ft.com/"
     submenu:
 
   - &economic_calendar
@@ -1163,7 +1163,7 @@ links:
 
   - &analyst_research
     label: "Analysts Research"
-    url: "https://commerce.uk.reuters.com/purchase/mostPopular.do?rpc=471"
+    url: "http://commerce.uk.reuters.com/purchase/mostPopular.do?rpc=471"
     submenu:
 
   - &executive_job_search
@@ -1218,7 +1218,7 @@ links:
 
   - &corporate_learning_alliance
     label: "Corporate Learning Alliance"
-    url: "https://www.ftiecla.com/"
+    url: "http://www.ftiecla.com/"
     submenu:
 
   - &dpn
