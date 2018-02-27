@@ -40,7 +40,7 @@ describe('Navigation data', () => {
 
 		urls.map(url => {
 			throat(() => {
-				it.skip(`${url} returns a 200 status code`, () => {
+				it(`${url} returns a 200 status code`, () => {
 					return heads(url,
                                                 {
                                                         headers: {
