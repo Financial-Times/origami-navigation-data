@@ -1248,7 +1248,7 @@ links:
 
   - &ft_chinese
     label: "FT Chinese"
-    url: "https://www.ftchinese.com/"
+    url: "http://www.ftchinese.com/"
     submenu:
 
   - &ft_live
