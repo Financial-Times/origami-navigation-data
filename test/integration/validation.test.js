@@ -41,7 +41,13 @@ describe('Navigation data', () => {
 		urls.map(url => {
 			throat(() => {
 				it(`${url} returns a 200 status code`, () => {
-					return heads(url).then(statusCode => assert.equal(statusCode, 200));
+					return heads(url,
+                                                {
+                                                        headers: {
+                                                                'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36'
+                                                        }
+                                                }
+                                        ).then(statusCode => assert.equal(statusCode, 200));
 				});
 			});
 		});
