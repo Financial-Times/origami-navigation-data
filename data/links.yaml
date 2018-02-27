@@ -1203,7 +1203,7 @@ links:
 
   - &secondary_schools
     label: "UK Secondary Schools"
-    url: "https://enterprise.ft.com/en-gb/secondary-schools/"
+    url: "https://enterprise.ft.com/en-gb/services/group-subscriptions/education/"
     submenu:
 
   - &agenda
