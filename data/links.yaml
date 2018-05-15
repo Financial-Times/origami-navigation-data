@@ -1098,7 +1098,7 @@ links:
 
   - &my_account
     label: "My Account"
-    url: "https://myaccount.ft.com/details/core/view"
+    url: "/myft/alerts"
     submenu:
 
   - &my_ft
