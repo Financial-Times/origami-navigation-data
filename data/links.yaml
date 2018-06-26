@@ -52,7 +52,7 @@ links:
     submenu:
 
   - &world_economy
-    label: "World Economy"
+    label: "Global Economy"
     url: "/global-economy"
     submenu:
 
