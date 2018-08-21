@@ -50,6 +50,9 @@ jobs:
       - checkout
       - *restore_node_modules
       - run:
+          name: Build the navigation JSON
+          command: make build
+      - run:
           name: Deploy to S3
           command: make deploy-s3
       - run:
