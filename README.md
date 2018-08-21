@@ -1,5 +1,5 @@
 
-Origami Navigation Service Data
+Origami Navigation Service
 ===============================
 
 Provides the data consumed via [origami-navigation-service].
