@@ -420,8 +420,8 @@ navbar-uk:
     submenu: *uk_submenu
   - <<: *companies
     submenu: *companies_submenu
-- <<: *technology
-- <<: *markets
+  - <<: *technology
+  - <<: *markets
     submenu: *markets_submenu
   - <<: *opinion
     submenu: *opinion_submenu
@@ -441,8 +441,8 @@ navbar-international:
     submenu: *us_submenu
   - <<: *companies
     submenu: *companies_submenu
-- <<: *technology
-- <<: *markets
+  - <<: *technology
+  - <<: *markets
     submenu: *markets_submenu
   - <<: *opinion
     submenu: *opinion_submenu
