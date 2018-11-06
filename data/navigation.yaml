@@ -161,7 +161,6 @@ drawer-uk:
               - <<: *markets_regulation
               - <<: *otc_markets
               - <<: *derivatives           
-      - <<: *graphics
       - <<: *opinion
         submenu: &opinion_submenu
           label:
@@ -296,7 +295,6 @@ drawer-international:
       - <<: *technology
       - <<: *markets
         submenu: *markets_submenu
-      - <<: *graphics
       - <<: *opinion
         submenu: *opinion_submenu
       - <<: *work_careers
