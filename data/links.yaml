@@ -1384,6 +1384,7 @@ links:
   - &enterprise_tools
     label: "Enterprise Tools"
     url: "https://kat.ft.com/"
+    submenu:
 
   - &about_us_careers
     label: "Careers"
