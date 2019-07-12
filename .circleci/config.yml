@@ -22,7 +22,7 @@ jobs:
       - checkout
       - run: npm ci
       - run: make build
-      - run: make deploy-s3
+      - run: make deploy
       - run: make release-log || true
       - run: make update-cmdb
       - run: make auto-version
