@@ -43,7 +43,7 @@ workflows:
       - change-api/release-log:
           requires:
             - deploy
-          systemCode: 'origami-navigation-data'
+          systemCode: 'origami-navigation-service-data'
           environment: 'prod'
           slackChannels: 'origami-deploys'
           filters:
