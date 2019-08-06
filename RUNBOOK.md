@@ -40,10 +40,6 @@ origami-team
 * jake.champion
 * rowan.manning
 
-## Dependents
-
-* origami-navigation-service
-
 ## Dependencies
 
 * ft-fastly
