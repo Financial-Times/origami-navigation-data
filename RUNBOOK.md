@@ -2,10 +2,6 @@
 
 Provides the data consumed via origami-navigation-service
 
-## Code
-
-origami-navigation-service-data
-
 ## Service Tier
 
 Platinum
