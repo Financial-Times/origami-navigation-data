@@ -18,10 +18,6 @@ Production
 
 https://www.ft.com/__origami/service/navigation-data/v2/navigation.json
 
-## Repositories
-
-* github:Financial-Times/origami-navigation-data
-
 ## Host Platform
 
 Fastly
