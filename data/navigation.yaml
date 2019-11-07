@@ -316,7 +316,7 @@ drawer-international:
         submenu: *life_arts_submenu
       - <<: *personal_finance
         submenu: *personal_finance_submenu
-      - <<: *&how_to_spend_it
+      - <<: *how_to_spend_it
       - <<: *special_reports
   - label: FT recommends
     url:
