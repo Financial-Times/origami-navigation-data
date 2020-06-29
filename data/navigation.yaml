@@ -29,7 +29,6 @@ drawer-uk:
               items:
               - <<: *uk_economy
               - <<: *uk_politics_policy
-              - <<: *ukelection
               - <<: *brexit
               - <<: *uk_companies
           - <<: *us
@@ -127,8 +126,6 @@ drawer-uk:
         submenu: &markets_submenu
           label:
           items:
-          - <<: *fastft
-            submenu:
           - <<: *alphaville
           - <<: *markets_data
           - <<: *capital_markets
@@ -274,7 +271,6 @@ drawer-uk:
       items:
       - <<: *lex
       - <<: *alphaville
-      - <<: *emsquared
       - <<: *lunch_with_the_ft
       - <<: *globetrotter
       - <<: *tsa
@@ -422,7 +418,6 @@ navbar-simple:
   label: Navigation
   items:
   - <<: *home
-  - <<: *fastft
   - <<: *markets_data
 
 
