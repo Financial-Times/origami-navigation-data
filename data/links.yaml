@@ -1037,7 +1037,7 @@ links:
     submenu:
 
   - &business_school_rankings
-    label: 'MBA rankings'
+    label: 'Business School Rankings'
     url: 'http://rankings.ft.com/businessschoolrankings/rankings'
     submenu:
 
