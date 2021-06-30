@@ -1132,7 +1132,7 @@ links:
     submenu:
 
   - &epaper
-    label: "Today's newspaper (ePaper)"
+    label: "Today's Newspaper (ePaper)"
     url: "https://www.ft.com/todaysnewspaper"
     submenu:
 
@@ -1288,7 +1288,7 @@ links:
 
   - &community_events
     label: "FT Community"
-    url: "/tour/community"
+    url: "https://www.ft.com/tour/community"
     submenu:
 
   - &conferences_events
