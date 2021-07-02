@@ -423,7 +423,7 @@ footer:
         submenu:
       - <<: *currency_converter
         submenu:
-  - label: Services
+  - label: Community & Events
     url:
     submenu:
       label:
