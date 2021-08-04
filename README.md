@@ -2,6 +2,10 @@
 Origami Navigation Service Data
 ===============================
 
+**Deprecated - The [origami-navigation-service](https://github.com/Financial-Times/origami-navigation-service#how-to-edit-navigation-data) now contains the data itself.**
+
+---
+
 Provides the data consumed via [origami-navigation-service].
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)][license]
